@@ -1,4 +1,4 @@
-### Hola 👋 I'm a digital art therapist, I make discrete, emotionally intelligent machines for your haus.
+### 👋 I'm a digital art therapist, I make discrete, emotionally intelligent machines for your haus.
 
 
 - ✨ I make procedural, abstract art pieces
@@ -12,6 +12,9 @@
 - ❤️  I'm just an autotelic at heart
 
 Here's my portfolio, my other portfolio, and my other other portfolio.
+
+<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+
 
 <!--
 **suttree/suttree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
