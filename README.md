@@ -13,7 +13,7 @@
 
 Here's my portfolio, my other portfolio, and my other other portfolio.
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+<img align="center" alt="believe" src="https://www.duncangough.com/i-want-to-believe.png" />
 
 
 <!--
