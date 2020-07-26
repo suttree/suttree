@@ -6,7 +6,7 @@
 - 🤖 I built a pirate radio station, run by robots
 - 🐦 I made a digital companion, a bird called Ara
 - ⚡ I made Somewhere.com, a creative community for sharing your work
-- 🕹️ I made PMOG, a passively multiplayer online game, after years of making my own flash and python games
+- 🕹️ I made PMOG, a passively multiplayer online game
 - 🥚 I once made a version of twitter with just the links, m'aam
 - 🗺️ I once made a version of 4sq, without the people, or, er, the locations
 - ❤️  I'm just an autotelic at heart
