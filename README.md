@@ -1,6 +1,6 @@
 ### 👋 &ensp;I'm a maker and sometime digital art therapist. I lead teams who make products that people love, and create discrete, emotionally intelligent machines for your haus.
 
-I've been a technical Director at Analog Folk, Head of Digital at The Moon Festival, a Tech Lead at the V&A, a CTO and co-founder at Somewhere.com, a Creative Technologist at Made by Many, a CTO and co-founder at GameLayers, a games developer at 3rd Sense, an Analyst Programmer at UpMyStreet, and a junior developer at SelfTrade. Phew.&ensp;🧐
+I've been the Chief Technical Officer for the Liberal Democrats, Technical Director at Analog Folk, Head of Digital at The Moon Festival, a Tech Lead at the V&A, a founder at Somewhere.com, a Creative Technologist at Made by Many, a co-founder at <a href="https://en.wikipedia.org/wiki/The_Nethernet">GameLayers</a>, a games developer at 3rd Sense, an Analyst Programmer at UpMyStreet, and a junior developer at SelfTrade. Phew.&ensp;🧐
 
 🤔&ensp;I speak javascript, ruby, python, perl, java, C#, C, and, er, COBOL. Years ago I learned to code on graph paper, through the mail.
 
