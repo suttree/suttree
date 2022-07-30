@@ -1,4 +1,4 @@
-### 👋 &ensp;I'm a maker and sometime digital art therapist. I lead teams who make products that people love, and create discrete, emotionally intelligent machines for your haus.
+### 👋 &ensp;I'm a maker and sometime digital artist. I lead teams who make products that people love, and create discrete, emotionally intelligent machines for your haus.
 
 I've been the Chief Product & Technology Office at Serco, Chief Technical Officer for the Liberal Democrats, Technical Director at Analog Folk, Head of Digital at The Moon Festival, a Tech Lead at the V&A, a founder at Somewhere.com, a Creative Technologist at Made by Many, a co-founder at GameLayers, a games developer at 3rd Sense, an Analyst Programmer at UpMyStreet, and a junior developer at SelfTrade. Phew.&ensp;🧐
 
