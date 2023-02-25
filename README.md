@@ -9,6 +9,7 @@ I've been the Chief Product & Technology Office at Serco, Chief Technical Office
  - ✉️  &ensp;I made an AI that <a href='https://github.com/suttree/amyhref'>lived in your inbox</a> and read <a href='https://duncangough.com/portfolio/projects/amyhref.html'>all the newsletters</a> for you
  - 🤖 &ensp;I built a <a href='https://github.com/suttree/robotradio'>pirate radio</a> station, <a href='https://duncangough.com/portfolio/projects/radiorobot.html'>run by robots</a>
  - 🐦 &ensp;I made a <a href='https://github.com/suttree/araduino'>digital companion</a>, a bird called <a href='https://www.creativereview.co.uk/know-caged-bird-sings/'>Ara</a>
+ - 🎤 &ensp;I made an AI <a href='https://github.com/suttree/hype'><i>¡hypebot!</i></a>, for those long lockdown 2020 days</a>
  - ⚡ &ensp;I made <a href='https://www.swiss-miss.com/2014/01/say-hello-to-somewhere.html'>Somewhere.com</a>, a creative community for sharing your work
  - 🕹️ &ensp;I made <a href='https://en.wikipedia.org/wiki/The_Nethernet'>PMOG</a>, a passively multiplayer online game
  - 🥚 &ensp;I once made a version of twitter with just the links, ma'am
