@@ -17,6 +17,6 @@ I've been the Chief Product & Technology Office at Serco, Chief Technical Office
  - 🗺️ &ensp;I once made a <a href='https://github.com/suttree/Bliss'>version of 4sq</a>, without the people, or, er, the locations
  - ❤️  &ensp;I'm just an autotelic at heart
 
-Here's my <a href='https://www.duncangough.com'>portfolio</a>, and my <a href='https://www.duncangough.com/portfolio'>other portfolio</a>.
+Here's my <a href='https://www.duncangough.com'>portfolio</a>, and my <a href='https://www.duncangough.com/portfolio.html'>other portfolio</a>.
 
 <img align="center" alt="believe" src="https://www.duncangough.com/i-want-to-believe.png" />
