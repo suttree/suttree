@@ -4,7 +4,6 @@ I've been the Chief Product & Technology Office at Serco, Chief Technical Office
 
 🤔&ensp;I speak javascript, ruby, python, perl, java, C#, C, and, er, COBOL. Years ago I learned to code on graph paper, through the mail.
 
- - 🪞 &ensp;I conjured up a <a href='https://multitudes.vercel.app/'>magic mirror</a> that let's you see how you look in the multiverse
  - 📍 &ensp;I published an <a href='https://github.com/suttree/touchdesigner-openai'>integration</a> between TouchDesigner and OpenAI
  - ✨ &ensp;I make procedural, abstract art pieces for the home, using processing, Unity, python, AI, and computer magic
  - 🏠  &ensp;I use eink screens to make digital furniture that fits your home, like <a href='https://github.com/suttree/glyphe'>Glyphe</a>, and <a href='https://github.com/suttree/coten'>Coten</a> 
