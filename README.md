@@ -18,6 +18,6 @@ I've been the Chief Product & Technology Office at Serco, Chief Technical Office
  - 📏 &ensp;I once made a version of 4sq for elevation, so you can be the mayor of 400ft
  - ❤️  &ensp;I'm just an autotelic at heart
 
-Here's my <a href='https://www.duncangough.com'>portfolio</a>, and my <a href='https://www.duncangough.com/portfolio.html'>other portfolio</a>.
+Here's my <a href='https://www.duncangough.com'>portfolio</a>.
 
 <img align="center" alt="believe" src="https://www.duncangough.com/i-want-to-believe.png" />
