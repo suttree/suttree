@@ -3,6 +3,7 @@
 I've been the Chief Product & Technology Office at Serco, Chief Technical Officer for the Liberal Democrats, Technical Director at Analog Folk, Head of Digital at The Moon Festival, a Tech Lead at the V&A, a founder at Somewhere.com, a Creative Technologist at Made by Many, a co-founder at GameLayers, a games developer at 3rd Sense, an Analyst Programmer at UpMyStreet, and a junior developer at SelfTrade. Phew.&ensp;🧐
 
 🤔&ensp;I speak javascript, ruby, python, perl, java, C#, C, and, er, COBOL. Years ago I learned to code on graph paper, through the post.
+ - 👾 &ensp;I made some classic browser-based arcade games, like <a href='https://github.com/suttree/exit-velocity'>Exit Velocity</a>, <a href='https://github.com/suttree/bladestorm'>Blade Storm</a>, <a href='https://github.com/suttree/blast-off'>Blast Off</a>, and <a href='https://github.com/suttree/pounce'>Pounce</a>
  - 🌴 &ensp;I designed and built my own tools, like <a href='https://github.com/suttree/goto'>goto</a>, <a href='https://github.com/suttree/host'>host</a>, <a href='https://github.com/suttree/read'>read</a>, and <a href='https://github.com/suttree/mote'>mote</a>
  - 🍴 &ensp;I forked the internet and built a <a href='https://github.com/suttree/fork'>p2p version</a> instead
  - 📍 &ensp;I published an <a href='https://github.com/suttree/touchdesigner-openai'>integration</a> between TouchDesigner and OpenAI
