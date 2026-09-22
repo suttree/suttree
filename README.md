@@ -4,6 +4,7 @@ I've been the Chief Product & Technology Office at Serco, Chief Technical Office
 
 🤔&ensp;I speak javascript, ruby, python, perl, java, C#, C, and, er, COBOL. Years ago I learned to code on graph paper, through the post.
  - 👾 &ensp;I made some classic browser-based arcade games, like <a href='https://github.com/suttree/exit-velocity'>Exit Velocity</a>, <a href='https://github.com/suttree/bladestorm'>Blade Storm</a>, <a href='https://github.com/suttree/blast-off'>Blast Off</a>, and <a href='https://github.com/suttree/pounce'>Pounce</a>
+ - 🤖 &ensp;I designed a multi-model <a href='[https://github.com/suttree/bl00p](https://github.com/suttree/bl00p)'>agent harness</a> application, built for orchestration.
  - 🌴 &ensp;I designed and built my own tools, like <a href='https://github.com/suttree/launch'>launch</a>, <a href='https://github.com/suttree/host'>host</a>, <a href='https://github.com/suttree/read'>read</a>, <a href='https://github.com/suttree/watch'>watch</a>, <a href='https://github.com/suttree/menu'>menu</a> and <a href='https://github.com/suttree/mote'>mote</a>
  - 🍴 &ensp;I forked the internet and built a <a href='https://github.com/suttree/fork'>p2p version</a> instead
  - 📍 &ensp;I published an <a href='https://github.com/suttree/touchdesigner-openai'>integration</a> between TouchDesigner and OpenAI
